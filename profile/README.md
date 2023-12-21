@@ -6,7 +6,7 @@
 ## 講義區
 - [第一節課](尚未完成)
 - [第二節課](尚未完成)
-- [第三節課](/pcic35-html/class3)
+- [第三節課](https://github.com/pcic35-html/class3)
   - HTML class
   - HTML id
   - JS basic 基本語法、註解 Hello World!
@@ -20,7 +20,7 @@
   - JS document.getElementById() 控制HTML元素
   - 檔案結構
   - 擲骰子
-- [第四節課](/pcic35-html/class4)
+- [第四節課](https://github.com/pcic35-html/class4)
   - JS string 字串 字串的合併
   - JS String() 數字轉字串
   - HTML <input> 輸入框
