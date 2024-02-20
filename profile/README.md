@@ -4,7 +4,7 @@
 - 管理員: [`KagariET01`]
 - 講義製作: [`KagariET01`]
 ## 講義區
-- [第一節課](尚未完成)
+- [第一節課](https://github.com/pcic35-html/class1)
 - [第二節課](尚未完成)
 - [第三節課](https://github.com/pcic35-html/class3)
   - HTML class
